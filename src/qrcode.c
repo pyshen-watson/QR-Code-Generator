@@ -1,5 +1,5 @@
 #include "qrcode.h"
-#include "../lib/windows.h"
+#include <windows.h>
 
 #include <stdio.h>
 #include <stdlib.h>
